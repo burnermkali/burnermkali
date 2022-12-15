@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "hi"
 ./flathub.sh
 ./libreoffice.sh
 ./qbittorent.sh
