@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @burnermkali
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Here is a simple readme file for your GitHub profile, tjadika:
+tjadika
 
-<!---
-burnermkali/burnermkali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I am a student at Daystar University (based in kenya), and I am passionate about Linux OS and writing bash scripts for installation processes. I have experience setting up nginx web servers and python environments, and I am familiar with the basics of HTML, CSS, and JavaScript. I am an object-oriented programmer and I am always looking to learn new skills and technologies.
+
+My GitHub profile showcases some of the projects I have worked on, including bash scripts for installing software, scripts for automating tasks, and other programming projects. Feel free to take a look around and get in touch if you have any questions or comments. 
+
+phone: +254742143214 
+
+personal email: 406burnermkali@gmail.com
+school email: thomasadika19-1762@daystar.ac,ke
+
+Thanks for visiting my profile!
+
+    tjadika
