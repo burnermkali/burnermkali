@@ -4,7 +4,7 @@ Hello! I am a student at Daystar University (based in kenya), and I am passionat
 
 My GitHub profile showcases some of the projects I have worked on, including bash scripts for installing software, scripts for automating tasks, and other programming projects. Feel free to take a look around and get in touch if you have any questions or comments. 
 
-phone: +254742143214 
+ 
 
 personal email: 406burnermkali@gmail.com
 
