@@ -1,9 +1,6 @@
 Thomas Adika 
  
-Hello! I am a student at Daystar University (based in kenya), and I am passionate about Linux OS and writing bash scripts for installation processes. I have experience setting up nginx web servers and python environments, and I am familiar with the basics of HTML, CSS, and JavaScript. I am an object-oriented programmer and I am always looking to learn new skills and technologies.
-
-My GitHub profile showcases some of the projects I have worked on, including bash scripts for installing software, scripts for automating tasks, and other programming projects. Feel free to take a look around and get in touch if you have any questions or comments. 
-
+Thomas Adika is a student at Daystar University in Kenya, passionate about Linux OS and writing bash scripts for installation processes. He is an experienced programmer, familiar with HTML, CSS, and JavaScript, and is always looking for new skills and technologies. He is a certified Google IT Support Professional, and his GitHub profile showcases his past trouble shooting experiences and new projects. His certificate can be found at https://coursera.org/share/920250b82f7bd083a7f9fff5b68be2c8. He has created bash scripts for installing software, scripts for automating tasks, and other programming projects. Feel free to take a look around and get in touch if you have any questions or comments.
  
 
 personal email: 406burnermkali@gmail.com
