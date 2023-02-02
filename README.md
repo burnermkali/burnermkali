@@ -1,13 +1,18 @@
-Thomas Adika 
+406-solutions
  
-Thomas Adika is a student at Daystar University in Kenya, passionate about Linux OS and writing bash scripts for installation processes. He is an experienced programmer, familiar with HTML, CSS, and JavaScript, and is always looking for new skills and technologies. He is a certified Google IT Support Professional, and his GitHub profile showcases his past trouble shooting experiences and new projects. His certificate can be found at https://coursera.org/share/920250b82f7bd083a7f9fff5b68be2c8. He has created bash scripts for installing software, scripts for automating tasks, and other programming projects. Feel free to take a look around and get in touch if you have any questions or comments.
+At 406 Solutions, we offer comprehensive remote IT support and specialize in data migration to cloud storage services on AWS. Our team is proud of our ability to make complex tasks easy. Thomas Adika is a skilled IT professional, who contributes his skills and expertise to streamlining installation processes and automating tasks
+ 
+406-whatsapp: +254792143214
+
+406-email: 406solutionskenya@gmail.com
+
+Blog: (https://406-tj.medium.com/)
+
+[https://l.wl.co/l?u=https%3A%2F%2F406-tj.medium.com]
  
 
-personal email: 406burnermkali@gmail.com
+email: thomasadika19-1762@daystar.ac,ke
 
+Thanks for visiting our profile!
 
-school email: thomasadika19-1762@daystar.ac,ke
-
-Thanks for visiting my profile!
-
-    tjadika
+   
